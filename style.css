@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 20px;
+}
+.s{
+    color: burlywood;
+}
+section{
+    display: flex;
+}
+.ab{
+    width: 50%;
+    padding: 5%;
+}
+.ab img{
+    width: 80%;
+}
+.btn{
+    text-decoration: none;
+    
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(202, 37, 37), rgb(20, 74, 20));
+    color: white;
+    font-weight: 700;
+}
