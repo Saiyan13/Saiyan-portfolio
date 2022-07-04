@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .ab{
     width: 50%;
@@ -25,4 +26,10 @@ section{
     background-image: linear-gradient(rgb(202, 37, 37), rgb(20, 74, 20));
     color: white;
     font-weight: 700;
+}
+.sca{
+    background-image: url(car2.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
